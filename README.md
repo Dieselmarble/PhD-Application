@@ -10,3 +10,19 @@ http://cwfletcher.net/Pages/SoP.php
 
 
 ### Research Proposal
+- A Guide from UCL
+https://www.ucl.ac.uk/ioe-writing-centre/plan-your-assignment/write-a-research-proposal
+- A Guide from Imperial College London
+https://www.imperial.ac.uk/research-and-innovation/research-office/preparing-and-costing-a-proposal/planning-a-proposal/
+- A Guide from CUHK
+https://www.ilc.cuhk.edu.hk/EN/ENResources/Writing_Research.aspx
+- Tutorial from Zhihu
+https://zhuanlan.zhihu.com/p/298343066
+
+### Contacting Potential Supervisors
+- Advice from UCL 
+http://depts.washington.edu/scholarq/pdfs/UCL%20contacting%20UK%20supervisors.PDF
+
+### Search Tool
+- CS Rankings
+https://csrankings.org/
