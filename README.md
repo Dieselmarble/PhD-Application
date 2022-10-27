@@ -16,7 +16,7 @@ https://www.ucl.ac.uk/ioe-writing-centre/plan-your-assignment/write-a-research-p
 https://www.imperial.ac.uk/research-and-innovation/research-office/preparing-and-costing-a-proposal/planning-a-proposal/
 - A Guide from CUHK
 https://www.ilc.cuhk.edu.hk/EN/ENResources/Writing_Research.aspx
-- Tutorial from Zhihu
+- A Tutorial from Zhihu
 https://zhuanlan.zhihu.com/p/298343066
 
 ### Contacting Potential Supervisors
@@ -26,3 +26,13 @@ http://depts.washington.edu/scholarq/pdfs/UCL%20contacting%20UK%20supervisors.PD
 ### Search Tool
 - CS Rankings
 https://csrankings.org/
+
+### Community BBS and Blogs
+- 1Point3Acres
+https://www.1point3acres.com/bbs/
+- gter
+https://www.gter.net/
+
+### GRE
+
+
