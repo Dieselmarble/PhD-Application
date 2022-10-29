@@ -1,7 +1,7 @@
 
 # PhD-Application
 
-###CV, Resume
+### CV, Resume
 -[How to write a EECS Resume](https://www.eecsresume.com/article)
 -[Template on Overleaf](https://www.overleaf.com/latex/templates/resume-template-by-anubhav/dhmkrwtksdgy)
 -[moderncv](https://ctan.org/tex-archive/macros/latex/contrib/moderncv?lang=en) [github repo](https://github.com/xdanaux/moderncv)
