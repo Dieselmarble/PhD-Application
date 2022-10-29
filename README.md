@@ -2,9 +2,9 @@
 # PhD-Application
 
 ### CV, Resume
--[How to write a EECS Resume](https://www.eecsresume.com/article)
--[Template on Overleaf](https://www.overleaf.com/latex/templates/resume-template-by-anubhav/dhmkrwtksdgy)
--[moderncv](https://ctan.org/tex-archive/macros/latex/contrib/moderncv?lang=en) [github repo](https://github.com/xdanaux/moderncv)
+- [How to write a EECS Resume](https://www.eecsresume.com/article)
+- [Template on Overleaf](https://www.overleaf.com/latex/templates/resume-template-by-anubhav/dhmkrwtksdgy)
+- [moderncv](https://ctan.org/tex-archive/macros/latex/contrib/moderncv?lang=en) [github repo](https://github.com/xdanaux/moderncv)
 
 ### Personal Satement
 - [A Guide from MIT](https://mitcommlab.mit.edu/broad/commkit/graduate-school-personal-statement/)
