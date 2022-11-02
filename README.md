@@ -14,10 +14,8 @@
 - [Writing the Statement of Purpose, UCB](https://grad.berkeley.edu/admissions/steps-to-apply/requirements/statement-purpose/)
 - [How to Write a Statement of Purpose for Grad School, Swapneel Mehta (NYU)](https://swapneelm.github.io/how-to-write-a-statement-of-purpose-for-grad-school)
 
-### Research Satement
+### Research Satement and Research Proposal
 - [Samples from UNC Champel Hill](https://www.cs.unc.edu/~cssa/guides/proposals/index.html)
-
-### Research Proposal
 - [A Guide from UCL](https://www.ucl.ac.uk/ioe-writing-centre/plan-your-assignment/write-a-research-proposal)
 - [A Guide from Imperial College London](https://www.imperial.ac.uk/research-and-innovation/research-office/preparing-and-costing-a-proposal/planning-a-proposal/)
 - [A Guide from CUHK](https://www.ilc.cuhk.edu.hk/EN/ENResources/Writing_Research.aspx)
