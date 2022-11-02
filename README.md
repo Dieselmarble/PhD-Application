@@ -15,7 +15,7 @@
 - [How to Write a Statement of Purpose for Grad School, Swapneel Mehta (NYU)](https://swapneelm.github.io/how-to-write-a-statement-of-purpose-for-grad-school)
 
 ### Research Satement
-
+- [Samples from UNC Champel Hill](https://www.cs.unc.edu/~cssa/guides/proposals/index.html)
 
 ### Research Proposal
 - [A Guide from UCL](https://www.ucl.ac.uk/ioe-writing-centre/plan-your-assignment/write-a-research-proposal)
