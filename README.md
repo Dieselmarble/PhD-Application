@@ -50,5 +50,5 @@
 - [gter](https://www.gter.net/)
 
 ### GRE
-
+- [A list of Universities that (not)require GRE](https://github.com/Dieselmarble/PhD-Application/blob/main/GRE/Vocab/CS_CS-Adjacent%20GRE%20Requirements.xlsx)
 
