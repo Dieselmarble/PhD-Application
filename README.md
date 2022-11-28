@@ -49,3 +49,5 @@
 - [1Point3Acres](https://www.1point3acres.com/bbs/)
 - [gter](https://www.gter.net/)
 - [A Guide from Hongzheng Chen](https://chhzh123.github.io/blogs/2021-05-22-phd-application/)
+- [Collection of Experience from ZJU](https://github.com/Dieselmarble/PhD-Application/blob/main/Practical%20Experience/%E6%B5%99%E5%A4%A7%E9%A3%9E%E8%B7%83%E6%89%8B%E5%86%8C.pdf)
+- ["Strong Committee" and "Strong Professor" in admission, Zhihu](https://zhuanlan.zhihu.com/p/128037373)
