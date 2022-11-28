@@ -33,7 +33,7 @@
 - [A Tutorial from Zhihu](https://zhuanlan.zhihu.com/p/298343066)
 
 ### Miscellaneous between SOP and PS
-To me, the major difference between PS and SOP is that Personal Statement (PS) requires a frameworked story about your life which illustrates your future career goal and interest. A Statement of Purpose (SOP), on the other hand
+> To me, the major difference between PS and SOP is that Personal Statement (PS) requires a frameworked story about your life which illustrates your future career goal and interest. A Statement of Purpose (SOP), on the other hand
 
 
 ### Contacting Potential Supervisors
