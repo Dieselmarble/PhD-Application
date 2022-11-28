@@ -23,7 +23,7 @@
 - [Sample from Eugenie Y. Lai, MIT](https://eugenielai.github.io/docs/application/sop-mit-eylai.pdf)
 
 ### Research Satement and Research Proposal
-Research Statements from professors/research scientists/Ph.D. Students often yield insight into not only their goals, but also areas of active research in general which is why I’m including some samples for candidates to read in order to ‘get a better idea of their field’ before writing their Statement of Purpose.
+> Research Statements from professors/research scientists/Ph.D. Students often yield insight into not only their goals, but also areas of active research in general which is why I’m including some samples for candidates to read in order to ‘get a better idea of their field’ before writing their Statement of Purpose.
 - [Samples from UNC Champel Hill](https://www.cs.unc.edu/~cssa/guides/proposals/index.html)
 - [A Guide from UCL](https://www.ucl.ac.uk/ioe-writing-centre/plan-your-assignment/write-a-research-proposal)
 - [A Guide from Imperial College London](https://www.imperial.ac.uk/research-and-innovation/research-office/preparing-and-costing-a-proposal/planning-a-proposal/)
