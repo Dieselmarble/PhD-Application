@@ -35,21 +35,17 @@
 ### Miscellaneous between SOP and PS
 > To me, the major difference between PS and SOP is that Personal Statement (PS) requires a frameworked story about your life which illustrates your future career goal and interest. A Statement of Purpose (SOP), on the other hand
 
-
 ### Contacting Potential Supervisors
 - [Advice from UCL](http://depts.washington.edu/scholarq/pdfs/UCL%20contacting%20UK%20supervisors.PDF)
 
-### More Practical Experience
-- [A Guide from Hongzheng Chen](https://chhzh123.github.io/blogs/2021-05-22-phd-application/)
 
 ### Search Tool
 - [CS Rankings](https://csrankings.org/)
 
+### GRE
+- [A list of Universities that (not)require GRE](https://github.com/Dieselmarble/PhD-Application/blob/main/GRE/CS_CS-Adjacent%20GRE%20Requirements.xlsx)
+
 ### Community BBS and Blogs
 - [1Point3Acres](https://www.1point3acres.com/bbs/)
 - [gter](https://www.gter.net/)
-
-### GRE
-- [A list of Universities that (not)require GRE](https://github.com/Dieselmarble/PhD-Application/blob/main/GRE/Vocab/CS_CS-Adjacent%20GRE%20Requirements.xlsx)
-
-### Others
+- [A Guide from Hongzheng Chen](https://chhzh123.github.io/blogs/2021-05-22-phd-application/)
