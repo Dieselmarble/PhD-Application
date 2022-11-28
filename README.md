@@ -21,6 +21,8 @@
 - [How to Write a Statement of Purpose for Grad School, Swapneel Mehta (NYU)](https://swapneelm.github.io/how-to-write-a-statement-of-purpose-for-grad-school)
 - [Example from  Anant Bhardwaj, MIT](http://people.csail.mit.edu/anantb/public/docs/sop/phd_admission_sop.pdf)
 - [Sample from Eugenie Y. Lai, MIT](https://eugenielai.github.io/docs/application/sop-mit-eylai.pdf)
+- [A very useful tutorial for me, Eugenie's Blog](https://eugenielai.github.io/posts/another-annotated-sop.html)
+- [Writing a Statement of Purpose, Swapneel’s Blog](https://djunicode.github.io/2018/10/16/writing-a-statement-of-purpose.html)
 
 ### Research Satement and Research Proposal
 > Research Statements from professors/research scientists/Ph.D. Students often yield insight into not only their goals, but also areas of active research in general which is why I’m including some samples for candidates to read in order to ‘get a better idea of their field’ before writing their Statement of Purpose.
