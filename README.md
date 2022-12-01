@@ -24,6 +24,7 @@
 - [Sample from Eugenie Y. Lai, MIT](https://eugenielai.github.io/docs/application/sop-mit-eylai.pdf)
 - [A very useful tutorial for me, Eugenie's Blog](https://eugenielai.github.io/posts/another-annotated-sop.html)
 - [Writing a Statement of Purpose, Swapneel’s Blog](https://djunicode.github.io/2018/10/16/writing-a-statement-of-purpose.html)
+- [Official Example from MIT](https://mitcommlab.mit.edu/broad/wp-content/uploads/sites/5/2016/09/Broad_CommKit_GradSchool_Personal_AAE2.png)
 
 ### Research Satement and Research Proposal
 > Research Statements from professors/research scientists/Ph.D. Students often yield insight into not only their goals, but also areas of active research in general which is why I’m including some samples for candidates to read in order to ‘get a better idea of their field’ before writing their Statement of Purpose.
