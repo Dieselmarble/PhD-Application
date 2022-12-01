@@ -13,6 +13,7 @@
 - [A Sample from Christopher's Blog](http://cwfletcher.net/Pages/SoP.php)
 - [A Five-Minute Guide to Ph.D. Program Applications](https://pg.ucsd.edu/PhD-application-tips.htm)
 - [How to Write a Bad Statement for a Computer Science Ph.D. Admissions Application, CMU](http://www.cs.cmu.edu/~pavlo/blog/2015/10/how-to-write-a-bad-statement-for-a-computer-science-phd-admissions-application.html)
+- [An Example from MIT CSAIL](https://mitcommlab.mit.edu/eecs/wp-content/uploads/sites/6/2016/09/CS-grad-school-personal-statement-annotated-example.pdf)
 
 ### Academic Statement of Purpose (SOP)
 > This statement should include your goals and background as it relates to the field of computer science. It is good to include any past work history, your interests, and reasons for pursuing a graduate degree. Your statement will be evaluated for your conciseness, reasons for pursuing a graduate degree, leadership skills, and eloquence.
