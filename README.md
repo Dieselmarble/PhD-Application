@@ -28,6 +28,9 @@
 - [Writing a Statement of Purpose, Swapneel’s Blog](https://djunicode.github.io/2018/10/16/writing-a-statement-of-purpose.html)
 - [Official Example from MIT](https://mitcommlab.mit.edu/broad/wp-content/uploads/sites/5/2016/09/Broad_CommKit_GradSchool_Personal_AAE2.png)
 
+### Miscellaneous between SOP and PS
+> To me, the major difference between PS and SOP is that Personal Statement (PS) requires a frameworked story about your life which illustrates your future career goal, your social awareness and your potential to contribute to a community. A Academic Statement of Purpose (SOP), on the other hand focus more on your research interest and past research experience. Read each program’s prompts and formatting requirements carefully. The point above is about the content, while this one is about the format and separation of the content. Some programs don't differentiate SOP and PS, but require you to submit one document that illustrate both your personal side and academic side. However, programs like Berkeley EECS require an SoP and a PS so the separation depends on the prompts.
+
 ### Research Satement and Research Proposal
 > Research Statements from professors/research scientists/Ph.D. Students often yield insight into not only their goals, but also areas of active research in general which is why I’m including some samples for candidates to read in order to ‘get a better idea of their field’ before writing their Statement of Purpose.
 - [Samples from UNC Champel Hill](https://www.cs.unc.edu/~cssa/guides/proposals/index.html)
@@ -36,15 +39,11 @@
 - [A Guide from CUHK](https://www.ilc.cuhk.edu.hk/EN/ENResources/Writing_Research.aspx)
 - [A Tutorial from Zhihu](https://zhuanlan.zhihu.com/p/298343066)
 
-### Miscellaneous between SOP and PS
-> To me, the major difference between PS and SOP is that Personal Statement (PS) requires a frameworked story about your life which illustrates your future career goal, your social awareness and your potential to contribute to a community. A Academic Statement of Purpose (SOP), on the other hand focus more on your research interest and past research experience. Read each program’s prompts and formatting requirements carefully. The point above is about the content, while this one is about the format and separation of the content. Some programs don't differentiate SOP and PS, but require you to submit one document that illustrate both your personal side and academic side. However, programs like Berkeley EECS require an SoP and a PS so the separation depends on the prompts.
-
 ### Recommendation Letter
 - [A useful Latex Template](https://github.com/Dieselmarble/PhD-Application/blob/main/Recommendation%20Letter/THU%20Letter%20of%20Recommendation%20Template.zip)
 
 ### Contacting Potential Supervisors
 - [Advice from UCL](http://depts.washington.edu/scholarq/pdfs/UCL%20contacting%20UK%20supervisors.PDF)
-
 
 ### Search Tool
 - [CS Rankings](https://csrankings.org/)
