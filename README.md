@@ -15,6 +15,7 @@
 - [How to Write a Bad Statement for a Computer Science Ph.D. Admissions Application, CMU](http://www.cs.cmu.edu/~pavlo/blog/2015/10/how-to-write-a-bad-statement-for-a-computer-science-phd-admissions-application.html)
 - [An Example from MIT CSAIL](https://mitcommlab.mit.edu/eecs/wp-content/uploads/sites/6/2016/09/CS-grad-school-personal-statement-annotated-example.pdf)
 - [An Example from Eugenie Y.Lai](https://eugenielai.github.io/docs/application/ps-cal-eylai.pdf)
+- [Jiayi Weng's PS](https://trinkle23897.github.io/pdf/PS-CMU.pdf)
 
 ### Academic Statement of Purpose (SOP)
 > This statement should include your goals and background as it relates to the field of computer science. It is good to include any past work history, your interests, and reasons for pursuing a graduate degree. Your statement will be evaluated for your conciseness, reasons for pursuing a graduate degree, leadership skills, and eloquence.
@@ -54,4 +55,5 @@
 - [gter 寄托论坛](https://www.gter.net/)
 - [A Guide from Hongzheng Chen](https://chhzh123.github.io/blogs/2021-05-22-phd-application/)
 - [Collection of Experience from ZJU](https://github.com/Dieselmarble/PhD-Application/blob/main/Practical%20Experience/%E6%B5%99%E5%A4%A7%E9%A3%9E%E8%B7%83%E6%89%8B%E5%86%8C.pdf)
+- [Jiayi Weng's Blog](https://trinkle23897.github.io/posts/application#%E6%9C%AC%E7%A7%91%E5%AD%A6%E6%A0%A1%E9%99%A2%E7%B3%BBgpa)
 - ["Strong Committee" and "Strong Professor" in admission, Zhihu](https://zhuanlan.zhihu.com/p/128037373)
