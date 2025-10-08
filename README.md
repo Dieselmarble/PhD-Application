@@ -42,8 +42,8 @@
 ### Recommendation Letter
 - [A useful Latex Template](https://github.com/Dieselmarble/PhD-Application/blob/main/Recommendation%20Letter/THU%20Letter%20of%20Recommendation%20Template.zip)
 
-### Contacting Potential Supervisors
-- [Advice from UCL](http://depts.washington.edu/scholarq/pdfs/UCL%20contacting%20UK%20supervisors.PDF)
+### Contacting Potential Supervisors 
+- [Advice from UCL](https://www.ucl.ac.uk/prospective-students/graduate/sites/prospective-students_graduate/files/potential-supervisor.pdf)
 
 ### Search Tool
 - [CS Rankings](https://csrankings.org/)
